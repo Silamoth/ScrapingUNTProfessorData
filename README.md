@@ -20,6 +20,8 @@ I also ran into a second issue: by default, RateMyProfessors only loads in 20 pr
 
 I ended up scraping data on each professor's name, average rating, and number of ratings since this data could easily be scraped from the search results.  At one point, I had thought about going into each professor's individual page to scrape even more data, but I ended up getting busy with the semester before I could get to that.
 
+Note: When I tried running this recently, it seemed to run into issues; RateMyProfessors.com may have changed slightly.  The code worked in the past, though, which is how I gathered the data in the professors.txt file.
+
 <h2>Analyzing the Data</h2>
 
 Once I had all the data I wanted, I then needed to analyze it.  Specifically, I wanted to analyze average ratings for professors across the university.  I didn't end up doing anything with the rating counts, although I could have done a weighted average if I had thought of it at the time.  Instead, I focused on the distribution of average ratings.
