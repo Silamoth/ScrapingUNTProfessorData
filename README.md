@@ -1,5 +1,4 @@
 # ScrapingUNTProfessorData
-Scraping and analyzing some basic data about UNT professors from RateMyProfessors.com
 
 This is a project I made early on during the Spring 2020 semester.  It had to have been around January or February of 2020.  At this time, I was getting into some data science stuff.  I really should have uploaded and written about this project earlier, but better late than never.  I thought it would be cool to scrape and analyze some data about UNT professors from RateMyProfessors.com.  So, I went ahead and did that.
 
