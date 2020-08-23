@@ -26,6 +26,9 @@ Once I had all the data I wanted, I then needed to analyze it.  Specifically, I 
 
 To summarize the ratings, I calculated the mean and median average ratings.  I found the mean average rating to be 3.699 and the median average rating to be 4.0.  I then decided to visualize this distribution of average ratings in a histogram since the ratings are quantitative (although RateMyProfessors only allows discrete rating values, the averages do not necessarily fit into these discrete categories).  I probably should have calculated the standard deviation and IQR as well, but at least the distribution is fairly clear from the histogram.
 
+![UNT Professor Ratings]
+(https://github.com/Silamoth/ScrapingUNTProfessorData/blob/master/UNT%20Professor%20Ratings.jpeg?raw=true)
+
 <h3>The Challenge: Unrated Professors</h3>
 
 One challenge I ran into during analysis was dealing with professors that were unrated.  For whatever reason, RateMyProfessors does list some professors without ratings, so I needed to clean the data and deal with this problem.  I decided to simply ignore these professors and drop them from the analysis.  I believe this was the right decision because professors who aren't rated probably haven't taught much, if at all, so it's not important to consider them in the analysis.
